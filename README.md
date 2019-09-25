@@ -8,10 +8,4 @@ Completed:
 - LCD screen
 - RGB and rgb
 
-Most recent:
-- rgb and RBG
-
-Still to do in this section:
-- Hello VS Code
-- FancyLED
 
