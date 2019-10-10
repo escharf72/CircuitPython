@@ -11,5 +11,6 @@ Assignments:
 - Hello VS code
 - Fancy LED
 
+<img src="Media/Final%20LCD%20screen%20fritzing%20diagram%20image.PNG" width="1000">
 
 
