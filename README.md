@@ -2,7 +2,7 @@
 My CircuitPython assignment (Elisabeth Scharf)
 The files in this repository are all CircuitPython assignments completed so far. These modules were designed to help us learn how to code with the Circuit Python language. 
 
-Completed:
+Assignments:
 - LED fade
 - Servo assignment
 - Photointerrupter
