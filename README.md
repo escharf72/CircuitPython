@@ -14,7 +14,7 @@ Learn how to use the Circuit Python coding language and turn on the built-in LED
 1. Again, Google is your friend. The PWM setup in this code is a bit complicated, but I found different codes that did something similar to what I wanted to do and pieced together the commands. 
 2. elif loops are cool! They are used just like any other loop, and then are like the else if loops in Arduino. 
 3. The print() function is a great way to troubleshoot. If the code doesn't seem to be functioning properly, just add a print() in the part that is having issues. This will show you if the code is even reading to that part. 
-<img src="Media/Final%20LED%20fade%20fritzing%20diagram%20image.PNG" width="1000">
+<img src="Media/Final%20LED%20fade%20fritzing%20diagram%20image.PNG" width="800">
 
 - ## Servo assignment
 **Goal:**
@@ -46,7 +46,7 @@ Have the code print how many times the photointerrupter has been interrupted and
 (Set up a pin, whether it is INPUT or OUTPUT and pull it up or down)
 2. Google is your friend! I got a lot of code for the LCD screen from websites that explain how it works. 
 3. Variables are very helpful. I created now and last variables in order to make sure that it only counted the button press one time, not counting up the whole time the button was pressed. It is super easy to establish a variable, just do: (variable = _____), and they make the logic part of the code simple. 
-<img src="Media/Final%20LCD%20screen%20fritzing%20diagram%20image.PNG" width="1000">
+<img src="Media/Final%20LCD%20screen%20fritzing%20diagram%20image.PNG" width="800">
 - ## RGB and rgb
 **Goal:** 
 
@@ -57,7 +57,7 @@ Learn how to use classes and modules in Circuit Python to make a nice clean code
 1. Variables are great! I made variables for the pins just to make the code a little cleaner.
 2. Drawing a picture or talking with other people helps you to understand the logic of the code before you get caught up in the actual commands. For the rainbow part we talked through how we could make each section work and used a drawing to explain it. This made what had seemed like a very complicated task actually quite easy. 
 3. Use examples and build off of them. I looked up examples of the code that didn't have to do with this specific task and saw how they used the different commands associated with classes and modules and then figured out how to make them apply to my task. 
-<img src="Media/Final%20RGB%20fritzing%20diagram%20image.PNG" width="1000">
+<img src="Media/Final%20RGB%20fritzing%20diagram%20image.PNG" width="800">
 - ## Hello VS code
 **Goal:**
 
@@ -76,7 +76,7 @@ Hello_VS_code was a very simple assignment to help us get used to the format of 
 
 1. Document your work as you go!! This assignment was so similar to RGB/rgb assignment and if I had done a bit of a better job understanding the code and commenting it, it would have been much easier to pick it up again and write the Fancy LED code
 2. Split the code into simple parts. My fancyLED code looks really long and complicated, but it's actually super simple. It pretty much just has lots of commands to turn certain LEDs on or off and an occasional delay. The logic was more complicated than the code itself. A helpful command to know: self.(variable).value = True (or False) will turn an LED on or off. 
-<img src="Media/Final%20Fancy%20LED%20fritzing%20diagram%20image.PNG" width="1000">
+<img src="Media/Final%20Fancy%20LED%20fritzing%20diagram%20image.PNG" width="800">
 
 
 
