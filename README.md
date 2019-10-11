@@ -47,6 +47,7 @@ Have the code print how many times the photointerrupter has been interrupted and
 2. Google is your friend! I got a lot of code for the LCD screen from websites that explain how it works. 
 3. Variables are very helpful. I created now and last variables in order to make sure that it only counted the button press one time, not counting up the whole time the button was pressed. It is super easy to establish a variable, just do: (variable = _____), and they make the logic part of the code simple. 
 <img src="Media/Final%20LCD%20screen%20fritzing%20diagram%20image.PNG" width="800">
+
 - ## RGB and rgb
 **Goal:** 
 
