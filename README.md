@@ -14,7 +14,7 @@ Learn how to use the Circuit Python coding language and turn on the built-in LED
 1. Again, Google is your friend. The PWM setup in this code is a bit complicated, but I found different codes that did something similar to what I wanted to do and pieced together the commands. 
 2. elif loops are cool! They are used just like any other loop, and then are like the else if loops in Arduino. 
 3. The print() function is a great way to troubleshoot. If the code doesn't seem to be functioning properly, just add a print() in the part that is having issues. This will show you if the code is even reading to that part. 
-<img src="Media/Final%20LED%20fade%20fritzing%20diagram%20image.PNG" width="800">
+<img src="Media/Final%20LED%20fade%20fritzing%20diagram%20image.PNG" width="500">
 
 - ## Servo assignment
 **Goal:**
