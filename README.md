@@ -58,6 +58,7 @@ Learn how to use classes and modules in Circuit Python to make a nice clean code
 2. Drawing a picture or talking with other people helps you to understand the logic of the code before you get caught up in the actual commands. For the rainbow part we talked through how we could make each section work and used a drawing to explain it. This made what had seemed like a very complicated task actually quite easy. 
 3. Use examples and build off of them. I looked up examples of the code that didn't have to do with this specific task and saw how they used the different commands associated with classes and modules and then figured out how to make them apply to my task. 
 <img src="Media/Final%20RGB%20fritzing%20diagram%20image.PNG" width="800">
+
 - ## Hello VS code
 **Goal:**
 
