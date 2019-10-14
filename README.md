@@ -35,7 +35,7 @@ Have the code print how many times the photointerrupter has been interrupted and
 1. There is almost always more that one way to do something. We had learned to use time.sleep() to add time to our code, but in this assignment we weren't allow to use it. This required us to do some research and realize that there is a thing called time.monotonic that can do almost the same thing. 
 2. Again, variables are your friend. We used nowT  in order to keep track of the time and now and last to count the number of interrupts. 
 3. Again, pseudocode is super helpful! It took me a long time to grasp how the every-four-seconds thing worked, but talking through it without any of the fancy coding words helped me to understand it. Ex. If the time NOW is PAST TIME + 4, then four seconds have passed. So I can say that if (The time it is now)-4 = the last time I checked the time, then I can go ahead with the rest of the commands. 
-<img src="Media/Final%20photointerrupter%20fritzing%20diagram%20image1.PNG" width="800">
+<img src="Media/Final%20photointerrupter%20fritzing%20diagram%20image1.PNG" width="600">
 
 - ## LCD screen
 **Goal:**
